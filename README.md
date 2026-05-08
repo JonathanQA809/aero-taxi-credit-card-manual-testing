@@ -46,11 +46,12 @@ The project was completed as part of QA engineering coursework using manual test
 
 ```text
 aero-taxi-credit-card-manual-testing/
-├── README.md
-├── requirements/
-│   └── sprint3_requirements.md
-└── test-cases/
-    └── aero_taxi_sprint3_test_cases.xlsx
+|-- README.md
+|-- requirements/
+|   |-- sprint3_requirements.md
+|-- test-cases/
+    |-- aero_taxi_sprint3_test_cases.xlsx
+```
 
 ## Tools Used
 
@@ -69,3 +70,4 @@ aero-taxi-credit-card-manual-testing/
 ## Notes
 
 The original Aero Taxi testing environment is no longer available. This repository is intended to showcase the QA process, test design, and manual testing documentation completed during the project.
+
